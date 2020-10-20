@@ -1,2 +1,1 @@
-# mazeTeszt
-# mazeTeszt
+# Tesztfeladat megoldás
